@@ -1,0 +1,5 @@
+tk
+matplotlib
+openpyxl
+numpy
+folium
